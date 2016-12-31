@@ -1,7 +1,9 @@
 ---
 title: Hello World!
 date: 2016-Sep-11
-tag: Hexo, Github
+tag: 
+	- Hexo
+	- Github
 ---
 Finally, it has happened. Back story -- I've been [procrastinating](http://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) for a long time now to start my own personal website and set up a blog. But now this is going to be my very first post. Thinking a bit about what exactly to write about in this blog post, I decided to make it a colophon. 
 
