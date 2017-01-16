@@ -17,4 +17,6 @@ I literally procrastinated for a whole week just over deciding which static site
 Git used for version control and source code stored in a Github repository.
 
 ## Theme
-I have adapted the look for this website from the [Cactus-Dark](https://github.com/probberechts/cactus-dark) Hexo theme. Thanks to [Pieter Robberechts](https://github.com/probberechts) for his work.
+Adapted the look for this website from the [Daryl](https://github.com/andrewcodes/daryl) theme. Thanks to [Andrew Lee](https://github.com/andrewcodes) for his work.
+
+**Update**: Updated the look using the [Cactus-Dark](https://probberechts.github.io/cactus-dark/) Hexo theme -- finally a Hexo theme I like. Thanks to [Pieter Robberechts](https://github.com/probberechts).
